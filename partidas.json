@@ -1,0 +1,27 @@
+[
+    {
+        "jugador": "martin",
+        "fecha": "2022-06-12",
+        "puntaje": 1
+    },
+    {
+        "jugador": "martin",
+        "fecha": "2022-06-15",
+        "puntaje": 70
+    },
+    {
+        "jugador": "nahuel",
+        "fecha": "2022-06-15",
+        "puntaje": 80
+    },
+    {
+        "jugador": "Angel",
+        "fecha": "2022-06-16",
+        "puntaje": 100
+    },
+    {
+        "jugador": "Nahuel",
+        "fecha": "2022-06-16",
+        "puntaje": 110
+    }
+]

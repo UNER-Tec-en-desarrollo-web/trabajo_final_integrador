@@ -1,0 +1,52 @@
+[
+    {
+        "pregunta": "\u00bfCu\u00e1nto es 2 + 2?",
+        "opciones": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "correcta": "4"
+    },
+    {
+        "pregunta": "asaf",
+        "opciones": [
+            "as",
+            "s",
+            "d",
+            "f"
+        ],
+        "correcta": "as"
+    },
+    {
+        "pregunta": "zxcv",
+        "opciones": [
+            "z",
+            "x",
+            "c",
+            "v"
+        ],
+        "correcta": "z"
+    },
+    {
+        "pregunta": "\u00bfDe qu\u00e9 color era el caballo blanco de San Mart\u00edn?",
+        "opciones": [
+            "Negro",
+            "Blanco",
+            "Marron",
+            "Gris"
+        ],
+        "correcta": "Blanco"
+    },
+    {
+        "pregunta": "En casa de herrero cuchillo de...",
+        "opciones": [
+            "Goma",
+            "Palo",
+            "Carton",
+            "Plastico"
+        ],
+        "correcta": "Palo"
+    }
+]
