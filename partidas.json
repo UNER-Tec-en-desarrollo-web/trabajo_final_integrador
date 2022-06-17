@@ -23,5 +23,30 @@
         "jugador": "Nahuel",
         "fecha": "2022-06-16",
         "puntaje": 110
+    },
+    {
+        "jugador": "Mario",
+        "fecha": "2022-06-17",
+        "puntaje": 140
+    },
+    {
+        "jugador": "Jorge",
+        "fecha": "2022-06-17",
+        "puntaje": 80
+    },
+    {
+        "jugador": "Pepe",
+        "fecha": "2022-06-17",
+        "puntaje": 60
+    },
+    {
+        "jugador": "Raul",
+        "fecha": "2022-06-17",
+        "puntaje": 120
+    },
+    {
+        "jugador": "Carla",
+        "fecha": "2022-06-17",
+        "puntaje": 110
     }
 ]
