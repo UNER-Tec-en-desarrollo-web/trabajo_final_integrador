@@ -4,7 +4,8 @@ jugador = {
         "fecha" : "",
         "nombre": "",
         "puntaje": 0,
-        "escalon": 1
+        "escalon": 1,
+        "preguntas_hechas": []
     }
 
 def crear_jugador():

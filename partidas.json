@@ -48,5 +48,25 @@
         "jugador": "Carla",
         "fecha": "2022-06-17",
         "puntaje": 110
+    },
+    {
+        "jugador": "Sergio",
+        "fecha": "2022-06-21",
+        "puntaje": 110
+    },
+    {
+        "jugador": "Marcos",
+        "fecha": "2022-06-21",
+        "puntaje": 110
+    },
+    {
+        "jugador": "Juan",
+        "fecha": "2022-06-21",
+        "puntaje": 50
+    },
+    {
+        "jugador": "Pedro",
+        "fecha": "2022-06-21",
+        "puntaje": 20
     }
 ]

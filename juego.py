@@ -25,9 +25,23 @@ def jugar():
             
 
 def nueva_pregunta():
-    with open('preguntas.json', 'rt', encoding="utf-8") as list_pregutas:
-        lista_preguntas = json.load(list_pregutas)
-    return lista_preguntas[randint(0,len(lista_preguntas) - 1)]
+    with open('preguntas.json', 'rt', encoding="utf-8") as json_preguntas:
+        lista_preguntas = json.load(json_preguntas)
+        preguntas_a_jugar = []
+
+        for pregunta in lista_preguntas:
+            if pregunta["escalon"] == jugador["escalon"]:
+                preguntas_a_jugar.append(pregunta)
+
+    a_preguntar = preguntas_a_jugar[randint(0,len(preguntas_a_jugar) - 1)]
+
+    if jugador["escalon"] == 8:
+        while a_preguntar in jugador["preguntas_hechas"]:
+                a_preguntar = preguntas_a_jugar[randint(0,len(preguntas_a_jugar) - 1)]
+
+        jugador["preguntas_hechas"].append(a_preguntar)
+
+    return a_preguntar
 
 def mostrar_opciones(pregunta):
     num_opcion = 1

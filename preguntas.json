@@ -1,35 +1,5 @@
 [
     {
-        "pregunta": "\u00bfCu\u00e1nto es 2 + 2?",
-        "opciones": [
-            "3",
-            "2",
-            "4",
-            "5"
-        ],
-        "correcta": "4"
-    },
-    {
-        "pregunta": "asaf",
-        "opciones": [
-            "as",
-            "s",
-            "d",
-            "f"
-        ],
-        "correcta": "as"
-    },
-    {
-        "pregunta": "zxcv",
-        "opciones": [
-            "z",
-            "x",
-            "c",
-            "v"
-        ],
-        "correcta": "z"
-    },
-    {
         "pregunta": "\u00bfDe qu\u00e9 color era el caballo blanco de San Mart\u00edn?",
         "opciones": [
             "Negro",
@@ -37,7 +7,8 @@
             "Marron",
             "Gris"
         ],
-        "correcta": "Blanco"
+        "correcta": "Blanco",
+        "escalon": 4
     },
     {
         "pregunta": "En casa de herrero cuchillo de...",
@@ -47,6 +18,216 @@
             "Carton",
             "Plastico"
         ],
-        "correcta": "Palo"
+        "correcta": "Palo",
+        "escalon": 8
+    },
+    {
+        "pregunta": "\u00bfCu\u00e1nto es una docena?",
+        "opciones": [
+            "15",
+            "10",
+            "6",
+            "12"
+        ],
+        "correcta": "12",
+        "escalon": 1
+    },
+    {
+        "pregunta": "Si P = M+N, \u00bfcu\u00e1l de las siguientes f\u00f3rmulas es correcta?",
+        "opciones": [
+            "M = P + N",
+            "N = P + M",
+            "N = P / M",
+            "M = P - N"
+        ],
+        "correcta": "M = P - N",
+        "escalon": 5
+    },
+    {
+        "pregunta": "\u00bfCu\u00e1ntos d\u00edas le toma a la tierra dar una vuelta a la \u00f3rbita del sol?",
+        "opciones": [
+            "365",
+            "300",
+            "360",
+            "250"
+        ],
+        "correcta": "365",
+        "escalon": 2
+    },
+    {
+        "pregunta": "\u00bfEn qu\u00e9 a\u00f1o se fund\u00f3 Netflix?",
+        "opciones": [
+            "1997",
+            "2001",
+            "2009",
+            "2015"
+        ],
+        "correcta": "1997",
+        "escalon": 3
+    },
+    {
+        "pregunta": "\u00bfCu\u00e1l fue el primer largometraje de Pixar?",
+        "opciones": [
+            "Bichos",
+            "Monster Inc.",
+            "Toy Story",
+            "Cars"
+        ],
+        "correcta": "Toy Story",
+        "escalon": 6
+    },
+    {
+        "pregunta": "\u00bfD\u00f3nde originaron los juegos ol\u00edmpicos?",
+        "opciones": [
+            "Troya",
+            "Esparta",
+            "Roma",
+            "Grecia"
+        ],
+        "correcta": "Grecia",
+        "escalon": 7
+    },
+    {
+        "pregunta": "\u00bfQu\u00e9 es el Teid?",
+        "opciones": [
+            "Sat\u00e9lita",
+            "Planta",
+            "Volc\u00e1n",
+            "Animal"
+        ],
+        "correcta": "Volc\u00e1n",
+        "escalon": 8
+    },
+    {
+        "pregunta": "\u00bfQui\u00e9n pint\u00f3 Las meninas?",
+        "opciones": [
+            "Francisco de Goya",
+            "Diego Vel\u00e1zquez",
+            "Salvador Dal\u00ed",
+            "Pablo Picasso"
+        ],
+        "correcta": "Diego Vel\u00e1zquez",
+        "escalon": 8
+    },
+    {
+        "pregunta": "\u00bfA cu\u00e1nto equivale el n\u00famero Pi?",
+        "opciones": [
+            "3,14",
+            "3,16",
+            "3,17",
+            "3,28"
+        ],
+        "correcta": "3,14",
+        "escalon": 8
+    },
+    {
+        "pregunta": "\u00bfCu\u00e1ndo se celebro el primer mundial de f\u00fatbol?",
+        "opciones": [
+            "12 de septiembre de 1915",
+            "13 de julio de 1930",
+            "12 de septiembre de 1950",
+            "5 de abril de 1938"
+        ],
+        "correcta": "13 de julio de 1930",
+        "escalon": 8
+    },
+    {
+        "pregunta": "\u00bfCu\u00e1l es la ciudad m\u00e1s poblada del mundo?",
+        "opciones": [
+            "Hong Kong",
+            "New York",
+            "Tokyo",
+            "Mosc\u00fa"
+        ],
+        "correcta": "Tokyo",
+        "escalon": 8
+    },
+    {
+        "pregunta": "\u00bfQu\u00e9 lenguaje de programaci\u00f3n es mas antiguo?",
+        "opciones": [
+            "Python",
+            "Cobol",
+            "Pascal",
+            "Fortran"
+        ],
+        "correcta": "Fortran",
+        "escalon": 8
+    },
+    {
+        "pregunta": "\u00bfCu\u00e1l es el r\u00edo m\u00e1s ancho del mundo?",
+        "opciones": [
+            "Nilo",
+            "Amazonas",
+            "R\u00edo de la plata",
+            "Misisipi"
+        ],
+        "correcta": "R\u00edo de la plata",
+        "escalon": 1
+    },
+    {
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": [
+            "Océano Pacífico",
+            "Océano Índico",
+            "Océano Atlántico",
+            "Océano Ártico"
+        ],
+        "correcta": "Océano Pacífico",
+        "escalon": 2
+    },
+    {
+        "pregunta": "¿Cuándo terminó la II Guerra Mundial?",
+        "opciones": [
+            "1945",
+            "1947",
+            "1943",
+            "1944"
+        ],
+        "correcta": "1945",
+        "escalon": 3
+    },
+    {
+        "pregunta": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
+        "opciones": [
+            "Oxígeno",
+            "Nitrógeno",
+            "Carbono",
+            "Hidrógeno"
+        ],
+        "correcta": "Oxígeno",
+        "escalon": 4
+    },
+    {
+        "pregunta": "¿Cómo se denomina a los animales que nacen de un  huevo?",
+        "opciones": [
+            "Huevíparos",
+            "Vivíparos",
+            "Ovíparos",
+            "Nacíparos"
+        ],
+        "correcta": "Ovíparos",
+        "escalon": 5
+    },
+    {
+        "pregunta": "¿Cuál fue el primer hombre en ir a la luna?",
+        "opciones": [
+            "Louis Armstrong",
+            "Neil Armstrong",
+            "Michael Armstrong",
+            "Jhon Armstrong"
+        ],
+        "correcta": "Neil Armstrong",
+        "escalon": 6
+    },
+    {
+        "pregunta": "¿Quién escribió La Odisea?",
+        "opciones": [
+            "Homero",
+            "Virgilio",
+            "Cervantes",
+            "Eulises"
+        ],
+        "correcta": "Homero",
+        "escalon": 7
     }
 ]

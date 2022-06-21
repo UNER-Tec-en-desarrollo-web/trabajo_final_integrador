@@ -10,10 +10,13 @@ def cargar_pregunta():
 
     correcta = input("indique cual es la opcion correcta: ")
 
+    escalon = int(input("Indique en que escalon se usara la pregunta: "))
+
     pregunta = {
         "pregunta" : consigna,
         "opciones" : opciones,
-        "correcta" : correcta
+        "correcta" : correcta,
+        "escalon" : escalon
     }
 
     with open('preguntas.json', 'rt', encoding="utf-8") as list_pregutas:
