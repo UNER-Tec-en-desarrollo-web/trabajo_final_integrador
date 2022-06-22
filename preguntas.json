@@ -229,27 +229,5 @@
         ],
         "correcta": "Homero",
         "escalon": 7
-    },
-    {
-        "pregunta": "Pruba",
-        "opciones": [
-            "p1",
-            "p2",
-            "p3",
-            "p4"
-        ],
-        "correcta": "p1",
-        "escalon": 1
-    },
-    {
-        "pregunta": "Prueba",
-        "opciones": [
-            "p1",
-            "p2",
-            "p3",
-            "p4"
-        ],
-        "correcta": "p1",
-        "escalon": 8
     }
 ]
