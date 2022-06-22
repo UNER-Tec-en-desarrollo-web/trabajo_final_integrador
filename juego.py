@@ -46,7 +46,7 @@ def nueva_pregunta():
 def mostrar_opciones(pregunta):
     num_opcion = 1
     for i in pregunta["opciones"]:
-        print(num_opcion, i)
+        print(f"{num_opcion} - {i}")
         num_opcion += 1
 
 def fin_juego():
