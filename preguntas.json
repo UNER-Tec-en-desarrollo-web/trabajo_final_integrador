@@ -165,18 +165,18 @@
         "escalon": 1
     },
     {
-        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "pregunta": "\u00bfCu\u00e1l es el oc\u00e9ano m\u00e1s grande del mundo?",
         "opciones": [
-            "Océano Pacífico",
-            "Océano Índico",
-            "Océano Atlántico",
-            "Océano Ártico"
+            "Oc\u00e9ano Pac\u00edfico",
+            "Oc\u00e9ano \u00cdndico",
+            "Oc\u00e9ano Atl\u00e1ntico",
+            "Oc\u00e9ano \u00c1rtico"
         ],
-        "correcta": "Océano Pacífico",
+        "correcta": "Oc\u00e9ano Pac\u00edfico",
         "escalon": 2
     },
     {
-        "pregunta": "¿Cuándo terminó la II Guerra Mundial?",
+        "pregunta": "\u00bfCu\u00e1ndo termin\u00f3 la II Guerra Mundial?",
         "opciones": [
             "1945",
             "1947",
@@ -187,29 +187,29 @@
         "escalon": 3
     },
     {
-        "pregunta": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
+        "pregunta": "\u00bfCu\u00e1l es el elemento qu\u00edmico m\u00e1s abundante en la corteza terrestre?",
         "opciones": [
-            "Oxígeno",
-            "Nitrógeno",
+            "Ox\u00edgeno",
+            "Nitr\u00f3geno",
             "Carbono",
-            "Hidrógeno"
+            "Hidr\u00f3geno"
         ],
-        "correcta": "Oxígeno",
+        "correcta": "Ox\u00edgeno",
         "escalon": 4
     },
     {
-        "pregunta": "¿Cómo se denomina a los animales que nacen de un  huevo?",
+        "pregunta": "\u00bfC\u00f3mo se denomina a los animales que nacen de un  huevo?",
         "opciones": [
-            "Huevíparos",
-            "Vivíparos",
-            "Ovíparos",
-            "Nacíparos"
+            "Huev\u00edparos",
+            "Viv\u00edparos",
+            "Ov\u00edparos",
+            "Nac\u00edparos"
         ],
-        "correcta": "Ovíparos",
+        "correcta": "Ov\u00edparos",
         "escalon": 5
     },
     {
-        "pregunta": "¿Cuál fue el primer hombre en ir a la luna?",
+        "pregunta": "\u00bfCu\u00e1l fue el primer hombre en ir a la luna?",
         "opciones": [
             "Louis Armstrong",
             "Neil Armstrong",
@@ -220,7 +220,7 @@
         "escalon": 6
     },
     {
-        "pregunta": "¿Quién escribió La Odisea?",
+        "pregunta": "\u00bfQui\u00e9n escribi\u00f3 La Odisea?",
         "opciones": [
             "Homero",
             "Virgilio",
@@ -229,5 +229,27 @@
         ],
         "correcta": "Homero",
         "escalon": 7
+    },
+    {
+        "pregunta": "Pruba",
+        "opciones": [
+            "p1",
+            "p2",
+            "p3",
+            "p4"
+        ],
+        "correcta": "p1",
+        "escalon": 1
+    },
+    {
+        "pregunta": "Prueba",
+        "opciones": [
+            "p1",
+            "p2",
+            "p3",
+            "p4"
+        ],
+        "correcta": "p1",
+        "escalon": 8
     }
 ]

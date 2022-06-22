@@ -8,15 +8,22 @@ def cargar_pregunta():
     for i in range(4):
         opciones.append(input("Ingrese una opcion: "))
 
-    correcta = input("indique cual es la opcion correcta: ")
+    correcta = input("Indique cual es la opcion correcta: ")
 
-    escalon = int(input("Indique en que escalon se usara la pregunta: "))
+    escalon = input("Indique del 1-8 en que escalon se usara la pregunta: ")
 
+    while not escalon.isnumeric():
+        escalon = input("Indique del 1-8 en que escalon se usara la pregunta: ")
+
+        if escalon.isnumeric():
+            if int(escalon) > 8 or int(escalon) < 1:
+                escalon = ""
+    
     pregunta = {
         "pregunta" : consigna,
         "opciones" : opciones,
         "correcta" : correcta,
-        "escalon" : escalon
+        "escalon" : int(escalon)
     }
 
     with open('preguntas.json', 'rt', encoding="utf-8") as list_pregutas:
