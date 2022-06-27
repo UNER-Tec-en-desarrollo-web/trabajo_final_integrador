@@ -26,4 +26,5 @@ El juego consta de tres modos principales:
 * Modo "Consultas"\
   En este modo el usuario podrá comparar el puntaje logrado con el resultado de otros usuarios. Pudiendo ordenar las portidas según nombre, puntaje o fecha.
   
-Para ver el código de este programa ingresar en el siguiente [Repositorio](https://github.com/UNER-Tec-en-desarrollo-web/trabajo_final_integrador.git)
+Para ver el código de este programa ingresar en el siguiente [REPOSITORIO](https://github.com/UNER-Tec-en-desarrollo-web/trabajo_final_integrador.git).
+Para ver el video explicativo [AQUI](https://www.youtube.com/watch?v=Z_5a_r8ytOM)
